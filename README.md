@@ -4,7 +4,7 @@
 
 <h2 align="left">About Me</h2>
 
-<p align="left">✨ I have a strong foundation in Core Java, Advanced Java, SQL, and Hibernate with JPA. <br>📚 Currently expanding my skillset with HTML, CSS, Bootstrap, and JavaScript.<br>🌟 Additionally, I'm proficient in using Git and GitHub for version control.<br>💻 I also have awareness and basic knowledge of Linux OS, DBMS, and Docker.<br>🎯 My goal is to become a proficient full-stack Java developer and contribute to meaningful projects.</p>
+<p align="left">✨ I have a strong foundation in Core Java, Advanced Java, SQL, and Hibernate with JPA. <br>📚 Currently expanding my skillset with HTML, CSS, Bootstrap, and JavaScript.<br>💻 Proficient in using Git and GitHub for version control.<br>🐧 Have awareness and basic knowledge of Linux OS, DBMS, and Docker.<br>🎯 My goal is to become a proficient full-stack Java developer and contribute to meaningful projects.</p>
 
 <h2 align="left">Tech Stack</h2>
 
@@ -22,5 +22,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" height="40" alt="database logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
