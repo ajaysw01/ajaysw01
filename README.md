@@ -4,7 +4,7 @@
 
 <h2 align="left">About Me</h2>
 
-<p align="left">✨ I have a strong foundation in Core Java, Advanced Java, SQL, and Hibernate with JPA. <br>📚 Currently expanding my skillset with HTML, CSS, Bootstrap, and JavaScript.<br>💻 Proficient in using Git and GitHub for version control.<br>🐧 Have awareness and basic knowledge of Linux OS, DBMS, and Docker.<br>🎯 My goal is to become a proficient full-stack Java developer and contribute to meaningful projects.</p>
+<p align="left">✨ I have a strong foundation in Core Java, Advanced Java, SQL, and Hibernate with JPA. <br>📚 Currently expanding my skillset with HTML, CSS, Bootstrap, and JavaScript.<br>💻 Proficient in using Git and GitHub for version control.<br>🐧 Have awareness and knowledge of Linux OS, DBMS, DSA, and Docker.<br>🎯 My goal is to become a proficient full-stack Java developer and contribute to meaningful projects.</p>
 
 <h2 align="left">Tech Stack</h2>
 
