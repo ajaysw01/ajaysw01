@@ -9,7 +9,7 @@
 
 <img align='right' src="https://i.pinimg.com/564x/b8/39/0f/b8390f69ce0fcae2f09e63d3c96c35d1.jpg" width="280" height='230'>
 
-- 💻 I’m a Backend & Java Developer
+- 💻 I’m a Java Developer
 
 - 🌱 I’m currently learning **React**
 
@@ -78,5 +78,5 @@
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaysw01&theme=radical" alt="ajaysw01" /></p>
 <p align="center">
-  <img align="center" height="200px" width="500px" src="https://github-readme-stats.vercel.app/api?username=ajaysw45&show_icons=true&locale=en&theme=radical" />
+  <img align="center" height="200px" width="500px" src="https://github-readme-stats.vercel.app/api?username=ajaysw01&show_icons=true&locale=en&theme=radical" />
 </p>
