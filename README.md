@@ -69,10 +69,6 @@
 <hr />
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img align="center" height="200px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaysw01&show_icons=true&locale=en&layout=compact&theme=radical" />
-</p>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaysw01&theme=radical" alt="ajaysw01" /></p>
-<p align="center">
-  <img align="center" height="200px" width="500px" src="https://github-readme-stats.vercel.app/api?username=ajaysw01&show_icons=true&locale=en&theme=radical" />
-</p>
+
