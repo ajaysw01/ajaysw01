@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Ajay Wankhade</h1>
-<h3 align="center">Software Developer from Pune, Maharashtra (India)</h3>
+<h3 align="center">Software Developer from Maharashtra, India</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&color=DC143C&width=650&height=80&lines=Enthusiastic+Software+Developer;Strong+Knowledge+in+Java+and+OOPS;Always+Learning+New+Things;&center=true&width=640&height=45&vCenter=true&size=28" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=DC143C&width=650&height=80&lines=Enthusiastic+Software+Developer;Strong+Knowledge+in+Java+and+Spring Boot;Always+Learning+New+Things;&center=true&width=640&height=45&vCenter=true&size=28" />
 </p>
 
 <img align='right' src="https://i.pinimg.com/564x/b8/39/0f/b8390f69ce0fcae2f09e63d3c96c35d1.jpg" width="280" height='230'>
