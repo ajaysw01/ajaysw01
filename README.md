@@ -1,74 +1,18 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Ajay Wankhade</h1>
-<h3 align="center">Software Developer from Maharashtra, India</h3>
+# 💫 About Me:
+🌱 Hi , I'm Ajay Wankhade<br>💻 I’m a Full Stack Software Developer.<br>💬 Ask me about anything, I am happy to help !<br>📫 Reach out to me on : ajaysw45@gmail.com.<br>⚡ In my leisure time, I love to watch movies and reading books.
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&color=DC143C&width=650&height=80&lines=Enthusiastic+Software+Developer;Strong+Knowledge+in+Java+and+SpringBoot;Always+Learning+New+Things;&center=true&width=640&height=45&vCenter=true&size=28" />
-</p>
 
-<img align='right' src="https://i.pinimg.com/564x/b8/39/0f/b8390f69ce0fcae2f09e63d3c96c35d1.jpg" width="280" height='230'>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ajaysw01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaysw) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ajaysw01) 
 
-- 💻 I’m a Java Developer
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ajaysw01&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ajaysw01&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysw01&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **React**
+---
+[![](https://visitcount.itsvg.in/api?id=ajaysw01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 💬 Ask me about anything, I am happy to help
-
-- 📫 Reach out to me on **ajaysw45@gmail.com**
-
-- ⚡ In my leisure time, **I love to watch movies and reading books.**
-
-<hr />
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ajaysw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/ajaysw01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-</p>
-
-<hr />
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-</p>
-
-<hr />
-
-<h3 align="center">Want To Get In Touch? Reach Out To Me On 👇</h3>
-  
-<p align="center">
-  <a href="mailto:ajaysw45@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-  <a href="https://www.linkedin.com/in/ajaysw"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
-<p align="center"> <img src="https://gpvc.arturio.dev/ajaysw01" alt="Profile Views" /> </p>
-
-<hr />
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaysw01&theme=radical" alt="ajaysw01" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
